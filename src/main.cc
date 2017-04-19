@@ -3,7 +3,7 @@
 //  tbd
 //
 //  Created by inoahdev on 4/16/17.
-//  Copyright © 2017 inoahdev. All rights reserved.
+//  Copyright © 2017 curry. All rights reserved.
 //
 
 #include <mach-o/arch.h>
